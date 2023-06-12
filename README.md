@@ -2,8 +2,6 @@
 
 Proyecto de comisión 62i del módulo 1
 
-`Hello World`
-
 ### Instrucciones
 
 - Clonar el proyecto
